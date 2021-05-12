@@ -1,11 +1,6 @@
-// Subscribe on YouTube, and follow on TikTok (@mattupham)! Socials found below:
-// https://mattupham.com/links
-
-
-// --------------------------------------------
-// PLEASE REPLACE "your-api-key-here" WITH AN
-// API KEY FROM https://ipgeolocation.io/
-let apiKey = "aeb3679db935467fa806e8d6a4b98571";
+//Replace "YOUR API KEY with your API KEY taken in https://ipgeolocation.io/
+//Code by Gusso
+let apiKey = "YOUR API KEY";
 
 window.oRTCPeerConnection =
   window.oRTCPeerConnection || window.RTCPeerConnection;
